@@ -1,2 +1,2 @@
 # QNLP_Senti
-Author Name- Avnesh Joshi
+Author Name- Avnesh Joshi (JUET)
